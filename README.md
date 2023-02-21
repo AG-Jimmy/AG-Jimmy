@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+Im**Ahmed Gamal** is a ✨ _special_ ✨ repository because its 
 
+Here are some ideas to get you started:
 
 
 <p>- 🔭 I’m currently working on my Portfolio website</p>
