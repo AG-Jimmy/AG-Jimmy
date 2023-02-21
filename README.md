@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 <p>- 🌱 I’m currently learning next.js node.js mongodb</p>
 <p>- 📫 How to reach me: 021066256137</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Gamal-Jimmy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Gamal-Jimmy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
