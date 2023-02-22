@@ -3,7 +3,7 @@
 <h1>Ahmed Gamal</h1>
 
 
-
+<hr>
 <h3>description</h3>
       
 <li>Over 1 years of professional exposure in JavaScript technology such as React JS, 
@@ -28,9 +28,9 @@ behaviors including the Box model</li>
       
 <li>Good Understanding of RDBMS through Database Design, writing queries and 
 stored procedures using databases like MySQL and mongodb</li>
-        
-         
- 
+<hr>        
+<br>         
+<h3>skills</h3>
     
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,mysql,nextjs,html,css,git,docker)](https://skills.thijs.gg)
 
