@@ -1,6 +1,6 @@
 ### welcome to my github acount 👋
 
-<h1 style="color:red; text-align:center; ">Ahmed Gamal</h1>
+<h1 style="color:red">Ahmed Gamal</h1>
 
 
 <hr>
