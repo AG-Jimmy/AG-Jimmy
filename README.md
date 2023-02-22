@@ -1,26 +1,33 @@
-### Hi there welcome to my GitHub 👋
+### welcome to my github acount 👋
 
 <h1>Ahmed Gamal</h1>
 
-<hr/>
 
-**description**
+
+<h3>description</h3>
       
-<li><p> Over 1 years of professional exposure in JavaScript technology such as React JS, 
- MongoDB, Express.js and Node JS.</p></li>
-<li><p> Expertise in developing web pages using HTML5, CSS3,  ES6, AJAX, JSON, . 
-Good understanding of Document Object Model (DOM) and DOM Functions.</p></li>
-<li><p> Expertise in creating the user validation forms and using the RESTful
- services for sending the data to the server.</p></li>
-<li><p> Expert in designing web applications and web contents utilizing 
-various Search Engine Optimization (SEO) techniques.</p></li>
-<li> <p> Good experience on working with CSS Background, padding, table, Animations, 
+<li>Over 1 years of professional exposure in JavaScript technology such as React JS, 
+ MongoDB, Express.js and Node JS</li>
+ 
+<li>Expertise in developing web pages using HTML5, CSS3,  ES6, AJAX, JSON,
+Good understanding of Document Object Model (DOM) and DOM Functions</li>
+
+<li>Expertise in creating the user validation forms and using the RESTful
+ services for sending the data to the server</li>
+ 
+<li>Expert in designing web applications and web contents utilizing 
+various Search Engine Optimization (SEO) techniques</li>
+
+<li>Good experience on working with CSS Background, padding, table, Animations, 
 Pseudo classes and Layouts, positioning, border, margin, Pseudo elements and CSS 
-behaviors including the Box model.</p></li>
-<li><p> Created visual design of graphic elements like ,logos, icons with usingPhotoshop,illustrator</p</li>
-<li><p> Strong experience with using the version controls GIT, GITHUB, and Package manager NPM.</p></li>
-<li> <p> Good Understanding of RDBMS through Database Design, writing queries and 
-stored procedures using databases like MySQL and mongo db</p></li>
+behaviors including the Box model</li>
+
+<li>Created visual design of graphic elements like ,logos, icons with usingPhotoshop,illustrator</li>
+      
+<li>Strong experience with using the version controls GIT, GITHUB, and Package manager NPM</li>
+      
+<li>Good Understanding of RDBMS through Database Design, writing queries and 
+stored procedures using databases like MySQL and mongodb</li>
         
          
  
