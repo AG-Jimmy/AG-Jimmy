@@ -29,11 +29,12 @@ behaviors including the Box model</li>
 <li>Good Understanding of RDBMS through Database Design, writing queries and 
 stored procedures using databases like MySQL and mongodb</li>
 <hr>        
-<br>         
+         
 <h3>skills</h3>
     
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,mysql,nextjs,html,css,git,docker)](https://skills.thijs.gg)
 
+<hr>  
 
 <p>- 🔭 I’m currently working on my Portfolio website</p>
 <p>- 🌱 I’m currently learning next.js node.js mongodb</p>
