@@ -1,10 +1,10 @@
 ### Hi there welcome to my GitHub 👋
 
-**Ahmed Gamal**
+<h1>Ahmed Gamal</h1>
 
 <hr/>
 
-<h2>description</h2>
+**description**
       
 <li><p> Over 1 years of professional exposure in JavaScript technology such as React JS, 
  MongoDB, Express.js and Node JS.</p></li>
