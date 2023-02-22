@@ -4,7 +4,7 @@
 
    <hr/>
 
-         <h2>description</h2>
+       <h2>description</h2>
       
           <li><p> Over 1 years of professional exposure in JavaScript technology such as React JS, 
            MongoDB, Express.js and Node JS.</p></li>
@@ -23,7 +23,7 @@
           stored procedures using databases like MySQL and mongo db</p></li>
         
          
-    <hr/> 
+ 
     
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,mysql,nextjs,html,css,git,docker)](https://skills.thijs.gg)
 
