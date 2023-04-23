@@ -1,4 +1,4 @@
-### welcome to my github acount 👋
+### welcome to my github account 👋
 
 <h1>Ahmed Gamal</h1>
 
