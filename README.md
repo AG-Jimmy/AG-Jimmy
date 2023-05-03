@@ -11,7 +11,6 @@
 <p>🔭 I’m currently working on om al qura school as a fullStack Engineer</p>
 <p>- 🌱 I'm currently learning node.js and express</p>
 <p>- 📫 How to reach me: ahmedgamal.21724@gmail.com</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AG-Jimmy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
