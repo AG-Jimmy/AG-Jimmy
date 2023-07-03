@@ -21,7 +21,7 @@
 🌃 Evening  |                  ████████████░░░░░░░░░░░░░   45.00 % <br>
 🌙 Night    |                  ██████░░░░░░░░░░░░░░░░░░░   12.05 % <br>
  
-"`[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AG-Jimmy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)*/`"
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AG-Jimmy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
