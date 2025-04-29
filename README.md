@@ -4,7 +4,7 @@
 <div style="display= flex">
 <h1 style="color:white" align="center">social media</h1>
  <div align="center">
-    <a href="https://www.linkedin.com/in/ahmedgamal21724" style="margin: 100px; text-decoration: none;" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmedgamalzenhome" style="margin: 100px; text-decoration: none;" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
     </a>
     <a href="https://www.facebook.com/ahmed.medo.teto" style="margin: 100px; text-decoration: none;" target="_blank">
