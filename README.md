@@ -1,6 +1,6 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=AG-Jimmy&label=Profile%20views&color=orange&style=flat" alt="AG-Jimmy" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2000&pause=0&color=FF9D00&center=true&multiline=true&repeat=true&width=1500&height=250&lines=Welcome+there+%F0%9F%91%8B;+I'm+Ahmed+Gamal;Full+Stack+Developer+(MERN)+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2000&pause=0&color=FF9D00&center=true&multiline=true&repeat=true&width=1500&height=250&lines=Welcome+there+%F0%9F%91%8B;+I'm+Ahmed+Gamal;Software+Engineer)](https://git.io/typing-svg)
 <div style="display= flex">
 <h1 style="color:white" align="center">social media</h1>
  <div align="center">
