@@ -1,41 +1,116 @@
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AG-Jimmy&label=Profile%20views&color=orange&style=flat" alt="AG-Jimmy" /> </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2000&pause=0&color=FF9D00&center=true&multiline=true&repeat=true&width=1500&height=250&lines=Welcome+there+%F0%9F%91%8B;+I'm+Ahmed+Gamal;Software+Engineer)](https://git.io/typing-svg)
-<div style="display= flex">
-<h1 style="color:white" align="center">social media</h1>
- <div align="center">
-    <a href="https://www.linkedin.com/in/ahmedgamalzenhome" style="margin: 100px; text-decoration: none;" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-    </a>
-    <a href="https://www.facebook.com/ahmed.medo.teto" style="margin: 100px; text-decoration: none;" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
-    </a>
-    <a href="https://wa.me/201066256137?text=مرحبًا،%20أريد%20التحدث%20معك" target="_blank" style="text-decoration: none; margin: 100px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" height="50" width="50" />
-    </a>
-    <a href="mailto:ahmedgamal.21724@gmail.com?subject=Subject%20Here&body=Hello,%20I%20would%20like%20to%20talk%20to%20you." style="margin: 100px; text-decoration: none;" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Gmail" height="50" width="50" />
-    </a>
- </div>
-</div>
-<h1 style="color:white" align="center">Languages and Tools</h1>
-<p align="center"><a style="text-decoration: none;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a style="text-decoration: none;" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a style="text-decoration: none;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt
-="linux" width="40" height="40"/> </a>  <a style="text-decoration: none;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a style="text-decoration: none;" href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  
-<a style="text-decoration: none;" href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376339/netlify.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://auth0.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349297/auth0.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="next" width="40" height="40"/> </a><a style="text-decoration: none;" href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="next" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AG-Jimmy&label=Profile%20views&color=orange&style=flat-square" alt="AG-Jimmy" />
 </p>
-<hr>
-<p>-🔭 I’m currently working on Lesoll as a full stack Engineer</p>
-<!-- <p>-🌱 I'm currently learning python , </p>-->
-<p>-📫 How to reach me: ahmedgamal.21724@gmail.com</p> 
-
-
-🌞 Morning  |                  █████████████████░░░░░░░   72.10 % <br>
-🌆 Daytime  |                  ███░░░░░░░░░░░░░░░░░░░░░   8.85 % <br>
-🌃 Evening  |                  ████░░░░░░░░░░░░░░░░░░░░   10.00 % <br>
-🌙 Night    |                  ███░░░░░░░░░░░░░░░░░░░░░   9.05 % <br>
- 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AG-Jimmy&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF9D00&center=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Ahmed+Gamal+%F0%9F%91%8B;Software+Engineer+@+Lesoll" alt="Typing SVG" />
+  </a>
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmedgamalzenhome" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201066256137" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:ahmedgamal.21724@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br />
+
+
+<table border="0">
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/7a973836-dbdb-4d89-bc37-8903c6cfb3ec" width="300" alt="Ahmed Gamal Animated Avatar" />
+    </td>
+    <td width="70%" valign="top">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🔭 <b>Currently:</b> Software Engineer at <b>Lesoll</b>, architecting high-performance real estate solutions.</li>
+        <li>🏗️ <b>Core Focus:</b> Advanced Web Architectures, <b>Domain-Driven Design (DDD)</b>, and <b>Microservices</b>.</li>
+        <li>🛠️ <b>System Design:</b> Passionate about building scalable systems using <b>Modular Monoliths</b> and <b>Cloud-Native</b> tools.</li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:ahmedgamal.21724@gmail.com">ahmedgamal.21724@gmail.com</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Professional Tools
+
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+#### 🖥️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+#### 🏗️ Architecture & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD-FF6600?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+#### 🧪 Testing & Quality
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+</p>
+
+#### 🎨 Design & Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile/Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
+#### 📚 Currently Learning & Basics
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Coding Activity
+```text
+🌞 Morning    | ██████████████████░░░░░░ 72%
+🌆 Daytime    | ██░░░░░░░░░░░░░░░░░░░░░░ 9%
+🌃 Evening    | ██░░░░░░░░░░░░░░░░░░░░░░ 10%
+🌙 Night      | ██░░░░░░░░░░░░░░░░░░░░░░ 9%
